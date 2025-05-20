@@ -1,0 +1,13 @@
+Sorted array
+It is arranged in a specific order(ascending to descending or big to small or small to big)
+
+Linear Search
+It searches the targeted value one by one in the array 
+
+Binary Search
+It splits the array in half by fixing the start and the end value and takes the middle value(m=s+e/2) and search the targeted value
+It takes less time 
+
+Time Complexity Big O notation(O-order)
+For Linear search-O(n)-number of elements in array
+For Binary search-O(log n)
