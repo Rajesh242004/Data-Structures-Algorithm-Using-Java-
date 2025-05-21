@@ -1,4 +1,4 @@
-package Array.BinarySearch;
+package Searching.BinarySearch;
 class Main{
     public static int binarysearch(int nums[],int target){
         int steps=0;

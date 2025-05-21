@@ -1,4 +1,4 @@
-package Array.LinearSearch;
+package Searching.LinearSearch;
 class Main{
     public static int linearsearch(int num[],int target){
         int steps=0;
