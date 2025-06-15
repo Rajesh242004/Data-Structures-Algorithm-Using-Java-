@@ -1,0 +1,18 @@
+1.single dimension array
+2.multidimensional array
+
+to declare an array
+data type arrayname[]=new datatype [size]
+
+eg-int[] a = new int[5];
+
+inintialization of array
+
+datatype arrayname[] = {elements}
+
+two dimensiononal array
+
+row and column
+
+
+
